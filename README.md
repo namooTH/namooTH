@@ -1,6 +1,7 @@
-## hai hai
-the name namo
-i am a stupid human who codes stupid stuff
+# hai hai
+## the name: namo/namu (you can call me anything i dont care lol)
+
+- i am a stupid human who codes stupid stuff
 
 
 <!--
