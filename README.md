@@ -1,13 +1,13 @@
-# hai hai
+# hai hai 👋
 
-## about me
+### about me
 - the name: namo/namu (you can call me anything i dont care lol)
 - birthday: 17th september
 - loves romance anime/manga/lightnovel
 - plays alot of indie games (e.g. oneshot, undertale, deltarune, stardew valley)
 - a stupid human who codes stupid stuff
 
-## languages i know how to code
+### languages i know how to code
 - python 3
 - gdscript
 - rust
