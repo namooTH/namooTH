@@ -1,4 +1,7 @@
-## Hi there 👋
+## hai hai
+the name namo
+i am a stupid human who codes stupid stuff
+
 
 <!--
 **namooTH/namooTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
