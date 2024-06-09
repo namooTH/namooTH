@@ -1,8 +1,17 @@
 # hai hai
-## the name: namo/namu (you can call me anything i dont care lol)
 
-- i am a stupid human who codes stupid stuff
+## about me
+- the name: namo/namu (you can call me anything i dont care lol)
+- birthday: 17th september
+- loves romance anime/manga/lightnovel
+- plays alot of indie games (e.g. oneshot, undertale, deltarune, stardew valley)
+- a stupid human who codes stupid stuff
 
+## languages i know how to code
+- python 3
+- gdscript
+- rust
+- javascript (sort of)
 
 <!--
 **namooTH/namooTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
