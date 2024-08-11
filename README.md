@@ -8,6 +8,7 @@
 - a stupid human who codes stupid stuff
 
 ### languages i know how to code
+- c#
 - python 3
 - gdscript
 - rust
