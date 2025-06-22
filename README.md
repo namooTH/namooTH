@@ -8,12 +8,9 @@
 - a stupid human who codes stupid stuff
 
 ### languages i know how to code
-- c#
+- rust
 - python 3
 - gdscript
-- rust
-- javascript (sort of)
-
 <!--
 **namooTH/namooTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
